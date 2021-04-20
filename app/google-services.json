@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393686885241",
+    "project_id": "mydiplom4ik",
+    "storage_bucket": "mydiplom4ik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393686885241:android:533d256801b2de191205a8",
+        "android_client_info": {
+          "package_name": "com.iryzhova.mydiplom4ik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393686885241-4vqtvjct6pao5970ieriq5t0n3093h0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iryzhova.mydiplom4ik",
+            "certificate_hash": "743899babed157189a14dfb91179919ffcaad088"
+          }
+        },
+        {
+          "client_id": "393686885241-714j0r27grknte9hs6rf0ca8detohi4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrD4EWSaPBl8wLGCAu0l1P_sguVVm9ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393686885241-714j0r27grknte9hs6rf0ca8detohi4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
